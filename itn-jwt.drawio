@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T04:40:46.598Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="ROplD7YF8Bfv1iyHQkep" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T04:44:37.292Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="Tf4GN3dQk9QmrU2uN4TF" version="14.4.5" type="github">
   <diagram id="L1m9j7CbCXa1aUlBPn3F" name="第 1 页">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,8 +51,8 @@
         <mxCell id="oBc7FIohURVzazIV89e2-10" value="biz-server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="600" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oBc7FIohURVzazIV89e2-15" value="1.配置文件获取clientId + sercret" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="580" y="430" width="200" height="210" as="geometry" />
+        <mxCell id="oBc7FIohURVzazIV89e2-15" value="1.配置文件获取clientId + sercret&lt;br&gt;2.多次获取 jwt 上一个jwt会失效?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="580" y="410" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="oBc7FIohURVzazIV89e2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBc7FIohURVzazIV89e2-16" target="oBc7FIohURVzazIV89e2-1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +61,7 @@
           <mxGeometry x="350" y="450" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oBc7FIohURVzazIV89e2-22" value="国际系统" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="30" width="170" height="380" as="geometry" />
+          <mxGeometry x="580" y="30" width="165.53" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
