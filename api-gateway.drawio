@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T03:06:48.029Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="72LC7UHCZdS-S_YcAT2u" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T03:07:51.195Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="3YmbRBMAvt7HwB3p8PAn" version="14.5.8" type="github">
   <diagram id="fcHj0cZlwkbwCe1Fl_MV" name="第 1 页">
     <mxGraphModel dx="1113" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="VBrS1-QxLQepXNiBcS_f-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VBrS1-QxLQepXNiBcS_f-21" target="VBrS1-QxLQepXNiBcS_f-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VBrS1-QxLQepXNiBcS_f-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.044;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VBrS1-QxLQepXNiBcS_f-21" target="VBrS1-QxLQepXNiBcS_f-65">
+        <mxCell id="VBrS1-QxLQepXNiBcS_f-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VBrS1-QxLQepXNiBcS_f-21" target="VBrS1-QxLQepXNiBcS_f-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VBrS1-QxLQepXNiBcS_f-21" value="gateway-admin（控制台）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -170,9 +170,6 @@
           <mxGeometry x="827" y="166" width="45" height="489" as="geometry" />
         </mxCell>
         <mxCell id="VBrS1-QxLQepXNiBcS_f-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VBrS1-QxLQepXNiBcS_f-66" target="VBrS1-QxLQepXNiBcS_f-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VBrS1-QxLQepXNiBcS_f-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VBrS1-QxLQepXNiBcS_f-66" target="VBrS1-QxLQepXNiBcS_f-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VBrS1-QxLQepXNiBcS_f-66" value="log&lt;br&gt;analysis&lt;br&gt;日志分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
