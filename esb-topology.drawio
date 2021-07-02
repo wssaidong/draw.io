@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T03:18:02.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="LgEgpxI0i99oTs1AWBLk" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T03:20:05.661Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="MPoOTf6F2IQqtdiDDHUO" version="14.8.3" type="github">
   <diagram id="kduv379LIr5jAOSpMAY8" name="Page-1">
     <mxGraphModel dx="1426" dy="724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,9 +108,6 @@
         <mxCell id="7TP2NFPiy9ONUSQoUl90-67" value="666" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="272" y="218" width="30" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="7TP2NFPiy9ONUSQoUl90-70" value="内网" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="97" width="728" height="173" as="geometry" />
-        </mxCell>
         <mxCell id="7TP2NFPiy9ONUSQoUl90-72" value="docker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="709" y="419" width="40" height="20" as="geometry" />
         </mxCell>
@@ -134,6 +131,18 @@
         </mxCell>
         <mxCell id="7TP2NFPiy9ONUSQoUl90-81" value="&lt;h1&gt;域名&lt;/h1&gt;&lt;div&gt;esb-apidev.midea.com&lt;/div&gt;&lt;div&gt;esb-apisit.midea.com&lt;br&gt;&lt;/div&gt;&lt;div&gt;esb-apiuat.midea.com&lt;br&gt;&lt;/div&gt;&lt;div&gt;esb-apiver.midea.com&lt;br&gt;&lt;/div&gt;&lt;div&gt;esb-apiprod.midea.com&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="857" y="105" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7TP2NFPiy9ONUSQoUl90-82" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;10.18.210.152&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124" y="142" width="100" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="7TP2NFPiy9ONUSQoUl90-83" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;10.18.210.153&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="137" width="100" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="7TP2NFPiy9ONUSQoUl90-84" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;10.18.210.154&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="143" width="100" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="7TP2NFPiy9ONUSQoUl90-85" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;10.18.210.155&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="594" y="136" width="100" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
